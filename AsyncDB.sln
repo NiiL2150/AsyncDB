@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncDB", "AsyncDB\AsyncDB.csproj", "{ED552306-213F-4ABC-8AEB-B0F164589571}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED552306-213F-4ABC-8AEB-B0F164589571}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED552306-213F-4ABC-8AEB-B0F164589571}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED552306-213F-4ABC-8AEB-B0F164589571}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED552306-213F-4ABC-8AEB-B0F164589571}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FDFAF5DF-7492-420B-AD37-740002C3BF55}
+	EndGlobalSection
+EndGlobal
